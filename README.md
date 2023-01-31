@@ -2,7 +2,7 @@
 
 Eu sou Lucas Rocha 
 
-Analista de Suporte + Eletrônica + Desenvolverdor
+Analista de Suporte + Eletrônica + Desenvolvedor
 
 Formado em Sistemas de Informação
 
