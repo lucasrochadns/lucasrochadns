@@ -1,12 +1,20 @@
 ## :boy: Hi!
 
-Eu sou Lucas Rocha 
+</br>
 
-Analista de Suporte + Eletrônica + Desenvolvedor
+### I'm Lucas Rocha:
 
-Formado em Sistemas de Informação
+</br>
 
-Meu Foco Atualmente esta em Fullstack
+### College: 
+
+System Analysis - Development - Electronics. 
+
+</br>
+
+### My focus is on Fullstack:
+
+</br>
 
 <div>
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasrochadns&show_icons=true&theme=tokyonight"/>
