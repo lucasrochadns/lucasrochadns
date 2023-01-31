@@ -2,13 +2,13 @@
 
 </br>
 
-### I'm Lucas Rocha:
+## I'm Lucas Rocha
 
 </br>
 
-### College: 
+## College: 
 
-System Analysis - Development - Electronics. 
+#### System Analysis - Development - Electronics. 
 
 </br>
 
